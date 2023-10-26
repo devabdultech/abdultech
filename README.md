@@ -36,7 +36,7 @@
 
 <br/>
 
-[twitter]: https://twitter.com/official_abdult
+[twitter]: https://twitter.com/devabdultech
 [discord]: https://discord.com/channels/@me
 
 
